@@ -1,4 +1,4 @@
-Course 2016-2017
+Linked Data Course 2016-2017
 ================
 
 This is our repository that we will use for our collaborative work and for uploading all the assignments for course 2016-2017
